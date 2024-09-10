@@ -1,0 +1,8 @@
+.text-fields {
+    margin-top: 20px;
+}
+
+.text-fields input {
+    display: block;
+    margin: 5px 0;
+}
